@@ -1,0 +1,14 @@
+# Python / notebooks
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+
+# Data & artifacts (keep out of git)
+data/raw/
+data/interim/
+data/processed/
+models/
+reports/figures/
+reports/tables/
